@@ -1,3 +1,4 @@
 # unipawn
-a ferocious chess engine\n
+a ferocious chess engine
+
 it will eat your pawns
