@@ -5,3 +5,7 @@ Engines
 - Stockfish https://stockfishchess.org/blog/2023/stockfish-16/
 - AlphaZero https://arxiv.org/pdf/1712.01815.pdf
 - Giraffe https://arxiv.org/abs/1509.01549v1
+
+
+Github
+- Stockfish https://github.com/official-stockfish/Stockfish
