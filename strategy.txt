@@ -1,0 +1,6 @@
+Training Strategy
+1. Evaluation Function + Alpha-Beta (minimax)
+  - Evalution Function with learned/handcrafted features and learned/handcrafted weights
+  - Pruning and move selection important
+
+2. MCTS (oder Las Vegas)
