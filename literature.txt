@@ -9,3 +9,4 @@ Engines
 
 Github
 - Stockfish https://github.com/official-stockfish/Stockfish
+- Zjeffer (tut das was wir wollen) https://github.com/zjeffer/chess-deep-rl
